@@ -35,7 +35,7 @@ Focusing on Frontend development.The skills in which I can perform includes <br/
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=waseemfarooq1992&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=waseemfarooq1992&column=7"/>  &nbsp;
   </a>
 </div>
 
